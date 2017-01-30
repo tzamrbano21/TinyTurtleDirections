@@ -14,11 +14,12 @@ Clone your new repo into a Cloud 9 workspace with a similar name.
 
 <br>
 **Step 3: New Files**   
-Create three new files in this workspace. Name these new files...
+Create four new files in this workspace. Name these new files...
 
 * index.html
 * style.css
 * script.js
+* tinyTurtle.js
 
 <br>
 **Step 4: index.html**  
