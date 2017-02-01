@@ -50,7 +50,7 @@ Copy and paste the code below into your index.html file
 Copy and paste the code below into your tinyTurtle.js file
 
 ```
-// tiny-turtle.js
+// tinyTurtle.js
 // 2013-10-11
 // Public Domain.
 // For more information, see http://github.com/toolness/tiny-turtle.
